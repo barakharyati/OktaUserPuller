@@ -1,2 +1,2 @@
 # OktaUserPuller
-Pull Okta Users per app 
+script for pulling apps and users from okta, by using okta API
